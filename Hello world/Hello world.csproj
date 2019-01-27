@@ -88,6 +88,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Demo.html" />
     <Content Include="Global.asax" />
     <Content Include="Hello world.html" />
     <Content Include="Web.config" />
